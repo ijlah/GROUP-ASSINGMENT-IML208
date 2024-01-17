@@ -1,0 +1,36 @@
+Name: aisha
+Identification: 040408140688
+Address: kajang
+Phone Number: 01162137426
+Email: aamanna@gmail.com
+Password: aisha1234
+Gender: Female
+Category: Student
+
+Name: Fatin Faris
+Identification: 040311011134
+Address: Muar, Johor
+Phone Number: 01162101565
+Email: meow@gmail.com
+Password: 1134
+Gender: Female
+Category: Student
+
+Name: Jeeha
+Identification: 040428140036
+Address: KL
+Phone Number: 0164983446
+Email: jee@gmail.com
+Password: 0036
+Gender: Female
+Category: Student
+
+Name: Fakrul Afzan
+Identification: 040312338706
+Address: Changlun, Kedah
+Phone Number: 0179644201
+Email: fakshua@gmail.com
+Password: 8706
+Gender: Male
+Category: Student
+
